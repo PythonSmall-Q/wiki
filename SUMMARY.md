@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What is Sean Proxies?](README.md)
-* [History](history.md)
+* [Github Mirror](README.md)
+* [Download Proxy](download-proxy.md)
